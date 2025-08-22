@@ -1,0 +1,13 @@
+{
+  "item.alltheports.rabarbar": "Rhubarb",
+
+  "block.alltheports.rabarbar_crate": "Rhubard Crate",
+  "block.alltheports.thick_bamboo": "Thick Bamboo",
+  "block.alltheports.flinty_gravel": "Flinty Gravel",
+  "block.alltheports.flinty_gravel_stone": "Flinty Graveled Stone",
+  "block.alltheports.gravel_stone": "Graveled Stone",
+  "block.alltheports.cobbled_gravel": "Cobbled Gravel",
+  "block.alltheports.flint_block": "Flint Block",
+
+  "creativetab.alltheports.rabarbar_items": "All The Ports"
+}

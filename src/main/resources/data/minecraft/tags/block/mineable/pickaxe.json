@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "alltheports:flint_block",
+    "alltheports:flinty_grave;_stone",
+    "alltheports:gravel_stone",
+    "alltheports:cobbled_gravel"
+  ]
+}

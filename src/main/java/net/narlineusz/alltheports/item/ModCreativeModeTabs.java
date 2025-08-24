@@ -27,6 +27,7 @@ public class ModCreativeModeTabs {
                         output.accept(ModBlocks.FLINTY_GRAVEL_STONE);
                         output.accept(ModBlocks.GRAVEL_STONE);
                         output.accept(ModBlocks.FLINT_BLOCK);
+                        output.accept(ModItems.BABEL.get());
                   }).build());
 
 
